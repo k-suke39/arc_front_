@@ -1,0 +1,2 @@
+# activerecorder_front
+ActiveRecorderフロントエンド用リポジトリ
