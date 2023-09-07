@@ -1,6 +1,4 @@
 import Image from 'next/image';
-import axios from 'axios';
-import { getAllTodos } from '@/api';
 import Header from './components/Header';
 import LoginButton from './components/LoginButton';
 import TimeLine from './components/TimeLine';
