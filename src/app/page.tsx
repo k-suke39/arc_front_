@@ -2,6 +2,7 @@ import Image from 'next/image';
 import axios from 'axios';
 import { getAllTodos } from '@/api';
 import Header from './components/Header';
+import LoginButton from './components/LoginButton';
 
 export default async function Home() {
 	return (
@@ -11,11 +12,7 @@ export default async function Home() {
 					<Header />
 				</section>
 			</main>
-			<div className="fixed rounded-full bg-slate-900 bottom-4 right-4 flex items-center justify-center z-50 p-4 hover:bg-slate-300 duration-100">
-				<a href="#" target="_blank" className="text-white font-semibold">
-					Login
-				</a>
-			</div>
+			<LoginButton />
 			<section className="relative mx-auto max-w-5xl  sm:px-6  overflow-hidden">
 				<article className="md:flex">
 					<div className="container mx-auto w-full h-full">
