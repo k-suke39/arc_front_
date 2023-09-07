@@ -53,11 +53,7 @@ export default async function Home() {
 										問題集を選択
 									</h3>
 									<p className="text-sm leading-snug tracking-wide text-gray-700 text-opacity-100">
-										Lorem Ipsum is simply dummy text of the printing and
-										typesetting industry. Lorem Ipsum has been the industry's
-										standard dummy text ever since the 1500s, when an unknown
-										printer took a galley of type and scrambled it to make a
-										type specimen book.
+										hogehogehoge
 									</p>
 									<img
 										loading="lazy"
@@ -80,11 +76,7 @@ export default async function Home() {
 										チャレンジしたい問題を選択
 									</h3>
 									<p className="text-sm font-medium leading-snug tracking-wide text-gray-700 text-opacity-100">
-										Lorem Ipsum is simply dummy text of the printing and
-										typesetting industry. Lorem Ipsum has been the industry's
-										standard dummy text ever since the 1500s, when an unknown
-										printer took a galley of type and scrambled it to make a
-										type specimen book.
+										hogehogehoge
 									</p>
 									<img
 										loading="lazy"
@@ -107,11 +99,7 @@ export default async function Home() {
 										エディタにコードを書く
 									</h3>
 									<p className="text-sm leading-snug tracking-wide text-gray-900 text-opacity-100">
-										Lorem Ipsum is simply dummy text of the printing and
-										typesetting industry. Lorem Ipsum has been the industry's
-										standard dummy text ever since the 1500s, when an unknown
-										printer took a galley of type and scrambled it to make a
-										type specimen book.
+										hogehogehoge
 									</p>
 									<img
 										loading="lazy"
@@ -133,11 +121,7 @@ export default async function Home() {
 										自分で書いたコードを判定する
 									</h3>
 									<p className="text-sm font-medium leading-snug tracking-wide text-gray-700 text-opacity-100">
-										Lorem Ipsum is simply dummy text of the printing and
-										typesetting industry. Lorem Ipsum has been the industry's
-										standard dummy text ever since the 1500s, when an unknown
-										printer took a galley of type and scrambled it to make a
-										type specimen book.
+										hogehogehoge
 									</p>
 									<img
 										loading="lazy"
