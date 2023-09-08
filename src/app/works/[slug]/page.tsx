@@ -1,8 +1,8 @@
 'use client';
 import React, { useRef } from 'react';
-import Aside from '../../components/Aside';
-import ChaptersHeader from '../../components/ChaptersHeader';
-import Cards from '../../components/Cards';
+import Aside from '@/app/components/Aside';
+import ChaptersHeader from '@/app/components/ChaptersHeader';
+import ChapterCards from '@/app/components/ChapterCards';
 
 const page = () => {
 	return (
@@ -11,6 +11,7 @@ const page = () => {
 				<Aside />
 				<section className="flex-grow">
 					<ChaptersHeader />
+					<ChapterCards />
 				</section>
 			</main>
 		</div>
